@@ -1,4 +1,3 @@
-Here's a README file for your To-Do List application that details its features and how to use it:
 To-Do List Application
 Overview
 
@@ -30,7 +29,7 @@ Running the Application:
 
 bash
 
-    python your_script_name.py
+    python3 todo.py
 
 Adding a Task:
 
